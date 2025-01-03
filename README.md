@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Isabele
-- 🌱 I’m currently learning: Angular | Clean Code 
+- 🌱 I’m currently learning: mentoring 😅
 - 📫 How to reach me: isabele.tamye@gmail.com
 - 💻 More code practising: https://bit.ly/3aDDRma
-- 🔎 My website: https://www.isabelets.com.br/
 
 <!---
 isabelets/isabelets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
